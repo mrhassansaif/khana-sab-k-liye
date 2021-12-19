@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "khana-sab-k-liye",
+    "slug": "khana-sab-k-liye",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "Testing"
+  },
+  "name": "khana-sab-k-liye"
+}
